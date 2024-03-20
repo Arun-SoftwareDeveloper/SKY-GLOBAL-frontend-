@@ -1,0 +1,29 @@
+/* Dashboard.css */
+
+.container {
+  margin-top: 20px;
+}
+
+.card {
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  color: #333;
+}
+
+.card-body {
+  padding: 20px;
+}
+
+.btn-logout {
+  float: right;
+}
+
+.list-group-item {
+  margin-top: 10px;
+}
+
+.badge-primary {
+  margin-left: 10px;
+}
